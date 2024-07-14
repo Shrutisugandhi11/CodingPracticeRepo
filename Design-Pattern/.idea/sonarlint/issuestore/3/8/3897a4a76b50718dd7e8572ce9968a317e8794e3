@@ -1,0 +1,24 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ö›ÄÏıÿÿÿÿ
+_
+java:S1612"DReplace this lambda with method reference 'Employee::getDepartment'.(Ç¿Èƒşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ç¿Èƒşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ö›ÄÏıÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¡Ô¿
+S	java:S106"9Replace this use of System.out or System.err by a logger.(±ßşÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‚øòÊ
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(Ö›ÄÏıÿÿÿÿ
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(Ö›ÄÏıÿÿÿÿ
+S	java:S106("9Replace this use of System.out or System.err by a logger.(ô²ö¥üÿÿÿÿ
+N	java:S106)"9Replace this use of System.out or System.err by a logger.(÷æ’Õ
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(•ñüÿÿÿÿ
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(Œ¨åôıÿÿÿÿ
+S	java:S1063"9Replace this use of System.out or System.err by a logger.(ÒâÂùÿÿÿÿ
+S	java:S1066"9Replace this use of System.out or System.err by a logger.(Ô…¤Ìûÿÿÿÿ
+S	java:S106;"9Replace this use of System.out or System.err by a logger.(®Úù¼ûÿÿÿÿ
+N	java:S106?"9Replace this use of System.out or System.err by a logger.(‡Óçö
+S	java:S106A"9Replace this use of System.out or System.err by a logger.(›Ò†àÿÿÿÿÿ
+S	java:S106B"9Replace this use of System.out or System.err by a logger.(‘Ìß÷üÿÿÿÿ
+N	java:S106D"9Replace this use of System.out or System.err by a logger.(Ú¸§«
+E
+java:S1197G"*Move the array designators [] to the type.(ÓÀùÿÿÿÿ

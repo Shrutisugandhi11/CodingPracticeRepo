@@ -1,0 +1,56 @@
+
+E
+java:S5411F"*Use the primitive boolean expression here.(§¢ŸÞûÿÿÿÿ
+f
+java:S3655w"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(¢ý†á
+k
+java:S3655-"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(ÂÐŒËþÿÿÿÿ
+k
+java:S3655Q"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(ÕÑ¼Óøÿÿÿÿ
+k
+java:S3655("PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(‡îÎ¼üÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ö›ÄÏýÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ö›ÄÏýÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ
+S	java:S106""9Replace this use of System.out or System.err by a logger.(Ö›ÄÏýÿÿÿÿ
+B
+java:S2201%",The return value of "entrySet" must be used.(ÒËÝµ
+S
+java:S1612)"=Replace this lambda with method reference 'Employee::getAge'.(ˆð¿È
+M	java:S106*"9Replace this use of System.out or System.err by a logger.(ÑÌ¶q
+N	java:S106."9Replace this use of System.out or System.err by a logger.(¥§…ç
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(Æ¾²Àÿÿÿÿÿ
+S	java:S1064"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ
+S	java:S1068"9Replace this use of System.out or System.err by a logger.(Ö›ÄÏýÿÿÿÿ
+Z
+java:S1612;"DReplace this lambda with method reference 'Employee::getDepartment'.(ëë£ù
+N	java:S106<"9Replace this use of System.out or System.err by a logger.(ýéÂ
+S	java:S106@"9Replace this use of System.out or System.err by a logger.(ËÁ¤¬ÿÿÿÿÿ
+N	java:S106A"9Replace this use of System.out or System.err by a logger.(É„ªþ
+N	java:S106G"9Replace this use of System.out or System.err by a logger.(À¶ð¯
+M	java:S106H"9Replace this use of System.out or System.err by a logger.(ÏÖøE
+N	java:S106J"9Replace this use of System.out or System.err by a logger.(Òß±Ú
+M	java:S106K"9Replace this use of System.out or System.err by a logger.(ÏÖøE
+S	java:S106R"9Replace this use of System.out or System.err by a logger.(á“Ûüÿÿÿÿ
+S	java:S106V"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ
+S	java:S106W"9Replace this use of System.out or System.err by a logger.( ”Ûãùÿÿÿÿ
+N	java:S106Z"9Replace this use of System.out or System.err by a logger.(ºÔõˆ
+S	java:S106^"9Replace this use of System.out or System.err by a logger.(¬–ºúÿÿÿÿ
+S	java:S106b"9Replace this use of System.out or System.err by a logger.(¬–ºúÿÿÿÿ
+7
+java:S3864e"!Remove this use of "Stream.peek".(Û£õÛ
+N	java:S106e"9Replace this use of System.out or System.err by a logger.(Û£õÛ
+Y
+java:S1612f">Replace this lambda with method reference 'Employee::getName'.(‘î²»ÿÿÿÿÿ
+S	java:S106f"9Replace this use of System.out or System.err by a logger.(‘î²»ÿÿÿÿÿ
+<
+java:S3864i"!Remove this use of "Stream.peek".(µ†ð”þÿÿÿÿ
+S	java:S106i"9Replace this use of System.out or System.err by a logger.(µ†ð”þÿÿÿÿ
+N	java:S106k"9Replace this use of System.out or System.err by a logger.(‚¨Ö§
+M	java:S106p"9Replace this use of System.out or System.err by a logger.(–¥ìC
+S	java:S106t"9Replace this use of System.out or System.err by a logger.(Ö›ÄÏýÿÿÿÿ
+V
+java:S1612w"@Replace this lambda with method reference 'Employee::getSalary'.(¢ý†á
+S	java:S106x"9Replace this use of System.out or System.err by a logger.(¿Ñç›ÿÿÿÿÿ

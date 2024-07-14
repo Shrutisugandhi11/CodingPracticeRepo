@@ -1,0 +1,23 @@
+
+S
+java:S1854%"=Remove this useless assignment to local variable "predicate".(½Ì¼
+T
+java:S1854$">Remove this useless assignment to local variable "predicate1".(‰§¥ä
+N	java:S106"9Replace this use of System.out or System.err by a logger.(÷ğåŸ
+s
+java:S4276"]Refactor this code to use the more specialised Functional Interface 'BinaryOperator<Integer>'(œÁâì
+M	java:S106"9Replace this use of System.out or System.err by a logger.(¬ĞëK
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‚­
+S	java:S106"9Replace this use of System.out or System.err by a logger.(›„Ü‘ıÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(®¦Àó
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ï§ş
+N	java:S106"9Replace this use of System.out or System.err by a logger.(²ª‹¢
+N	java:S106!"9Replace this use of System.out or System.err by a logger.(Î½–µ
+h
+java:S4276$"RRefactor this code to use the more specialised Functional Interface 'IntPredicate'(‰§¥ä
+E
+java:S1481$"/Remove this unused "predicate1" local variable.(‰§¥ä
+h
+java:S4276%"RRefactor this code to use the more specialised Functional Interface 'IntPredicate'(½Ì¼
+D
+java:S1481%".Remove this unused "predicate" local variable.(½Ì¼

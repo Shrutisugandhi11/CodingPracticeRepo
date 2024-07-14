@@ -1,0 +1,17 @@
+
+k
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(®…öìüÿÿÿÿ
+f
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(Ê§´ 
+H
+java:S1611"2Remove the parentheses around the "pair" parameter(Ş§™
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ş§™
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ç‘Œ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‚¨Ö§
+M	java:S106"9Replace this use of System.out or System.err by a logger.(–¥ìC
+R
+java:S1612"<Replace this lambda with method reference 'String::valueOf'.(Öæ½Ë
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Öæ½Ë
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ğ¡²Şùÿÿÿÿ
+H
+java:S1128"-Remove this unused import 'java.util.Locale'.(åğ×±ûÿÿÿÿ

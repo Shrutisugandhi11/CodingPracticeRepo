@@ -1,0 +1,12 @@
+
+m	java:S127O"XRefactor the code in order to not assign to this loop counter from within the loop body.(”ý“Ž
+m	java:S127O"XRefactor the code in order to not assign to this loop counter from within the loop body.(”ý“Ž
+m	java:S127P"XRefactor the code in order to not assign to this loop counter from within the loop body.(”ý“Ž
+m	java:S127P"XRefactor the code in order to not assign to this loop counter from within the loop body.(”ý“Ž
+N	java:S106"9Replace this use of System.out or System.err by a logger.(«‹Îõ
+Q	java:S125<"<This block of commented-out lines of code should be removed.(‹Éÿ¼
+S	java:S106Q"9Replace this use of System.out or System.err by a logger.(´‹¹öþÿÿÿÿ
+H
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ
+I
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ

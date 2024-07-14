@@ -1,0 +1,47 @@
+
+J
+java:S3740/"/Provide the parametrized type for this generic.(›À÷úÿÿÿÿ
+ˆ
+java:S1192$"rDefine a constant instead of duplicating this literal "-------------------------------------------------" 4 times.(§Í»
+:
+java:S2326"T is not used in the interface.(‡æß‰ùÿÿÿÿ
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(§Í»
+N	java:S106%"9Replace this use of System.out or System.err by a logger.(§Í»
+N	java:S106*"9Replace this use of System.out or System.err by a logger.(§Í»
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(§Í»
+O
+java:S1611,"4Remove the parentheses around the "person" parameter(Ù÷Üşÿÿÿÿ
+N	java:S1062"9Replace this use of System.out or System.err by a logger.(œ•é‹
+P
+java:S16125";Replace this lambda with method reference 'Person::getAge'.(’ıå+
+M	java:S1065"9Replace this use of System.out or System.err by a logger.(’ıå+
+S	java:S1066"9Replace this use of System.out or System.err by a logger.(ã½Ø…ÿÿÿÿÿ
+V	java:S1257"<This block of commented-out lines of code should be removed.(ÕªëÉùÿÿÿÿ
+\
+java:S16129"AReplace this lambda with method reference 'Person::getFirstName'.(¾”ã½ùÿÿÿÿ
+N	java:S106:"9Replace this use of System.out or System.err by a logger.(Ç’ÆÛ
+N	java:S106<"9Replace this use of System.out or System.err by a logger.(€îÓı
+S	java:S106?"9Replace this use of System.out or System.err by a logger.(ÒÇ²µÿÿÿÿÿ
+\
+java:S1612@"AReplace this lambda with method reference 'Person::getFirstName'.(¤ÜÏøÿÿÿÿ
+P
+java:S1612A":Replace this lambda with method reference 'Entry::getKey'.(›”ÿ
+N	java:S106A"9Replace this use of System.out or System.err by a logger.(›”ÿ
+S	java:S106D"9Replace this use of System.out or System.err by a logger.(·¯¤„ÿÿÿÿÿ
+M	java:S106F"9Replace this use of System.out or System.err by a logger.(ïæÂ/
+S	java:S106G"9Replace this use of System.out or System.err by a logger.(³œÎùÿÿÿÿ
+S	java:S106I"9Replace this use of System.out or System.err by a logger.(Å”ƒ‡úÿÿÿÿ
+N	java:S106K"9Replace this use of System.out or System.err by a logger.(ÏÛéˆ
+S	java:S106L"9Replace this use of System.out or System.err by a logger.(æ‚¢Öşÿÿÿÿ
+S	java:S106N"9Replace this use of System.out or System.err by a logger.(Ö¥²´ıÿÿÿÿ
+S	java:S106P"9Replace this use of System.out or System.err by a logger.(›šğÕøÿÿÿÿ
+N	java:S106Q"9Replace this use of System.out or System.err by a logger.(ğµ™›
+S	java:S106T"9Replace this use of System.out or System.err by a logger.(Ê±²¥ÿÿÿÿÿ
+S	java:S106U"9Replace this use of System.out or System.err by a logger.(×Àñøúÿÿÿÿ
+S	java:S106V"9Replace this use of System.out or System.err by a logger.(åâö“øÿÿÿÿ
+N	java:S106W"9Replace this use of System.out or System.err by a logger.(‡Ïªñ
+N	java:S106Z"9Replace this use of System.out or System.err by a logger.(´ë€ë
+S	java:S106_"9Replace this use of System.out or System.err by a logger.(¢÷ù—øÿÿÿÿ
+F
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
