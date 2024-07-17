@@ -1,5 +1,7 @@
-package interview;
+package EmployeeLambda;
 
+
+import EmployeeLambda.Employee;
 
 import java.text.DecimalFormat;
 import java.util.*;

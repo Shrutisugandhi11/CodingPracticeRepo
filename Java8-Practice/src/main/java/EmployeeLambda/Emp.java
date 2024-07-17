@@ -1,4 +1,4 @@
-package interview;
+package EmployeeLambda;
 
 public class Emp {
     String email;
